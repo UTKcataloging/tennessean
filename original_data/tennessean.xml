@@ -1,0 +1,567 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+<header>
+<identifier>tennessean_1001</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1947 March</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol1-no1</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1157</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1001</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1001/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1157</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1058</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1947 May</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol1-no2</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1158</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1058</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1058/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1158</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1099</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1947 Fall</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol2-no1</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1159</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1099</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1099/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1159</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1144</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1948 Winter</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol2-no2</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1160</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1144</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1144/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1160</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1177</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1948 Spring</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol2-no3</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1161</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1177</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1177/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1161</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1210</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1948 Summer</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol2-no4</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1162</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1210</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1210/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1162</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1239</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1948 Fall</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol3-no1</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1163</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1239</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1239/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1163</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1284</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1949 Winter</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol3-no2</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1164</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1284</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1284/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1164</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1317</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1949 Spring</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol3-no3</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1165</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1317</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1317/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1165</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1354</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1949 November</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol4-no1</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1166</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1354</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1354/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1166</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1387</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1950 March</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol4-no2</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1167</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1387</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1387/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1167</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tennessean_1420</identifier>
+<datestamp>2018-12-18T14:20:08Z</datestamp>
+<setSpec>tennessean</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Tennessean.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Students -- Periodicals. </topic>
+  </subject>
+  <subject>
+    <topic>College students' writings, American -- Tennessee -- Knoxville. </topic>
+  </subject>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1950 June</dateOther>
+  </originInfo>
+  <identifier type="local">tennessean_vol4-no3</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1168</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1420</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tennessean%3A1420/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tennessean&amp;iid=1168</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+</mods>
+</metadata>
+</record>
+</repository>
